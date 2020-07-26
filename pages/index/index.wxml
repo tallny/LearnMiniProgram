@@ -5,7 +5,7 @@
     <block wx:else>
       <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
-      <view>this is a test for XXZSPT</view>
+      <view>this is a test for XXZSPT tags2</view>
     </block>
   </view>
   <view class="usermotto">
